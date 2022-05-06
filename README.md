@@ -128,6 +128,9 @@ plt.imshow(get_motion_kernel2d(5, 0, 1.0).numpy()[0])
 ![png](README_files/README_6_2.png)
 
 
+## Apply random motion blur
+
+
 
 
 ```python
@@ -155,7 +158,6 @@ plt.imshow(imgsmall)
 
 
 ![png](README_files/README_7_2.png)
-
 
 
 
