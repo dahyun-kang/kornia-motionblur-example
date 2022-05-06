@@ -1,5 +1,6 @@
 # Kornia motion blur kernel example
 
+This repo visualzes some [kornia motion blur kernel](https://kornia.readthedocs.io/en/latest/filters.html?highlight=MotionBlur#kornia.filters.MotionBlur) examples.
 
 ```python
 %matplotlib inline
