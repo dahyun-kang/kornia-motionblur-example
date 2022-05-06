@@ -16,6 +16,7 @@ plt.rcParams['figure.figsize'] = [18, 18]
 torch.set_printoptions(precision=2)
 ```
 
+## Function prototype
 
 ```python
 '''
@@ -28,10 +29,6 @@ def get_motion_kernel2d(
 '''
 ```
 
-
-
-
-    "\ndef get_motion_kernel2d(\n    kernel_size: int,\n    angle: Union[torch.Tensor, float],\n    direction: Union[torch.Tensor, float] = 0.0,\n    mode: str = 'nearest',\n) -> torch.Tensor:\n"
 
 
 
