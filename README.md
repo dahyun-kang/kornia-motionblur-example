@@ -1,5 +1,7 @@
 # Kornia motion blur kernel example
 
+![png](README_files/header.png)
+
 This repo visualzes some [kornia motion blur kernel](https://kornia.readthedocs.io/en/latest/filters.html?highlight=MotionBlur#kornia.filters.MotionBlur) examples.
 
 ```python
@@ -79,9 +81,9 @@ plt.imshow(get_motion_kernel2d(5, 315, 0.).numpy()[0])
 
 
 
-    
+
 ![png](README_files/README_4_2.png)
-    
+
 
 
 ## Direction (0, 360)
@@ -122,9 +124,9 @@ plt.imshow(get_motion_kernel2d(5, 0, 1.0).numpy()[0])
 
 
 
-    
+
 ![png](README_files/README_6_2.png)
-    
+
 
 
 
@@ -151,9 +153,9 @@ plt.imshow(imgsmall)
 
 
 
-    
+
 ![png](README_files/README_7_2.png)
-    
+
 
 
 
@@ -178,6 +180,6 @@ for i in range(5):
 ```
 
 
-    
+
 ![png](README_files/README_8_0.png)
-    
+
